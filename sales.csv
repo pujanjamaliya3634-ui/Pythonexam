@@ -1,0 +1,201 @@
+date,title,quantity_sold,total_revenue
+2026-07-16,Shadow over Midnight Train,4,46.88
+2026-07-16,Daily Habits for Resilience,2,24.78
+2026-07-16,Max and the Rainy Day,1,8.38
+2026-07-17,Orbit of Andromeda,3,57.48
+2026-07-17,Beyond Andromeda,1,14.56
+2026-07-17,The Magic Moon Rabbit,2,16.34
+2026-07-17,Unlock Confidence,2,26.96
+2026-07-18,Portrait of the Artist,3,59.34
+2026-07-19,Beyond Andromeda,3,43.68
+2026-07-20,Realm of Thorns,4,65.88
+2026-07-20,Roads to Trade,2,54.58
+2026-07-21,Unlock Productivity,4,41.08
+2026-07-21,Mastering Calm,2,33.26
+2026-07-21,Children of Kepler,4,63.04
+2026-07-23,Flavors of Gujarat,3,38.91
+2026-07-23,Learning Python,3,105.69
+2026-07-24,Orbit of Nine,1,17.78
+2026-07-25,Voices of a Pioneer,2,38.76
+2026-07-25,Voices of a Pioneer,1,19.38
+2026-07-26,Mastering Data Systems,4,178.04
+2026-07-26,Beyond the Orchard,3,36.12
+2026-07-27,Portrait of a Pioneer,2,50.70
+2026-07-27,Flavors of Weeknight Meals,2,41.26
+2026-07-27,Brief Guide to the Human Brain,2,48.90
+2026-07-27,Bella and the Sleepy Dragon,3,27.69
+2026-07-27,Unlock Confidence,3,40.44
+2026-07-28,Simple Route,1,15.26
+2026-07-29,The Story of Quantum Worlds,3,74.49
+2026-07-29,Flavors of Weeknight Meals,3,61.89
+2026-07-29,Empires of the Roman Republic,3,70.68
+2026-07-30,Death in Blue Door,2,24.76
+2026-08-01,Once Upon Paris,1,13.77
+2026-08-02,Portrait of an Explorer,1,15.77
+2026-08-02,A Winter of Harbor,1,9.65
+2026-08-03,The Magic Moon Rabbit,1,8.17
+2026-08-03,The Crown of Storm King,1,15.11
+2026-08-03,Practical Web Development,3,124.83
+2026-08-03,The Vanishing Blue Door,1,14.20
+2026-08-03,Once Upon Autumn,3,28.98
+2026-08-04,The Case of the Midnight Train,1,14.50
+2026-08-04,The Art of Resilience,4,49.88
+2026-08-04,Simple Sourdough,3,54.12
+2026-08-05,Hidden Patterns in Mathematics,2,34.34
+2026-08-05,Voices of a Scientist,2,48.40
+2026-08-06,Understanding Quantum Worlds,2,37.50
+2026-08-06,Flavors of Weeknight Meals,2,41.26
+2026-08-06,Secrets of Blue Door,2,20.68
+2026-08-06,Orbit of Andromeda,4,76.64
+2026-08-07,The Missing Night Ferry,3,45.87
+2026-08-07,The Story of the Human Brain,1,23.45
+2026-08-07,The Story of Quantum Worlds,3,74.49
+2026-08-07,Children of Kepler,1,15.76
+2026-08-07,Hidden Patterns in Mathematics,1,17.17
+2026-08-07,Love in Provence,2,15.92
+2026-08-08,Brief Guide to Mathematics,1,17.23
+2026-08-08,Colony Andromeda,3,58.02
+2026-08-08,Understanding Climate,3,52.62
+2026-08-09,Unlock Deep Work,3,39.75
+2026-08-09,Becoming the Artist,4,51.80
+2026-08-09,Secrets of Manor House,2,27.36
+2026-08-09,Unlock Confidence,4,53.92
+2026-08-10,Understanding Quantum Worlds,4,75.00
+2026-08-10,Understanding Climate,1,17.54
+2026-08-10,Unfinished: a Statesman,2,48.80
+2026-08-10,Designing Web Development,1,36.25
+2026-08-11,The Life of a Pioneer,2,42.66
+2026-08-12,The Case of the Midnight Train,1,14.50
+2026-08-12,The Art of Deep Work,1,17.69
+2026-08-13,The Missing Blue Door,4,59.92
+2026-08-13,Practical Web Development,1,41.61
+2026-08-13,The Missing Night Ferry,2,30.58
+2026-08-13,Unlock Resilience,1,18.38
+2026-08-14,Once Upon Second Chances,3,23.70
+2026-08-14,The Magic Rainy Day,3,32.46
+2026-08-15,Shadow over Manor House,4,64.72
+2026-08-15,Roads to Trade,1,27.29
+2026-08-15,Simple Route,3,45.78
+2026-08-15,Flavors of Weeknight Meals,2,41.26
+2026-08-16,The Story of Quantum Worlds,1,24.83
+2026-08-16,The Art of Deep Work,3,53.07
+2026-08-16,Love in Autumn,1,9.72
+2026-08-17,Rise of Andromeda,3,41.91
+2026-08-17,Death in Blue Door,2,24.76
+2026-08-17,Practical Data Systems,3,80.46
+2026-08-17,Voices of a Scientist,1,24.20
+2026-08-18,The Fall of the Silk Road,4,67.52
+2026-08-18,Chronicles of Silver Forest,1,13.28
+2026-08-19,Empires of the Silk Road,3,64.02
+2026-08-19,Becoming the Artist,2,25.90
+2026-08-19,Children of Kepler,2,31.52
+2026-08-20,Unlock Confidence,2,26.96
+2026-08-20,Brief Guide to Quantum Worlds,2,27.00
+2026-08-20,A History of the Roman Republic,2,30.02
+2026-08-21,Bella and the Sleepy Dragon,4,36.92
+2026-08-21,Hidden Patterns in Mathematics,3,51.51
+2026-08-23,Wonders of the Cosmos,3,45.54
+2026-08-23,Practical Cybersecurity,3,77.49
+2026-08-23,Mastering Python,2,72.22
+2026-08-23,Voices of a Scientist,2,48.40
+2026-08-24,Simple Route,3,45.78
+2026-08-24,Baking with Classics,1,16.17
+2026-08-24,Flavors of Gujarat,2,25.94
+2026-08-24,Murder at Locked Room,4,50.08
+2026-08-24,Introduction to Cybersecurity,2,85.08
+2026-08-25,Daily Habits for Resilience,1,12.39
+2026-08-25,Children of Nine,1,14.13
+2026-08-27,Love in Provence,2,15.92
+2026-08-28,Flavors of Route,1,17.72
+2026-08-28,Falling for a Monsoon,3,39.33
+2026-08-28,Unlock Resilience,2,36.76
+2026-08-29,Shadow over Manor House,4,64.72
+2026-08-29,A History of the Ottomans,4,118.56
+2026-08-29,Wonders of the Human Brain,2,50.42
+2026-08-30,Falling for Autumn,3,21.33
+2026-08-30,Introduction to Machine Learning,3,108.12
+2026-08-31,Flavors of Gujarat,3,38.91
+2026-08-31,Practical Web Development,2,83.22
+2026-09-01,Echoes of Stranger,3,48.39
+2026-09-01,Rise of Andromeda,3,41.91
+2026-09-03,Wonders of the Cosmos,3,45.54
+2026-09-03,A Winter of Lighthouse,4,32.52
+2026-09-03,Mastering Cybersecurity,4,86.44
+2026-09-04,Home Kitchen: Weeknight Meals,2,46.46
+2026-09-06,Secrets of Blue Door,2,20.68
+2026-09-06,Bella and the Rainy Day,2,15.74
+2026-09-07,Brief Guide to the Human Brain,4,97.80
+2026-09-08,Bella and the Sleepy Dragon,1,9.23
+2026-09-09,Daily Habits for Resilience,2,24.78
+2026-09-09,Beyond Andromeda,1,14.56
+2026-09-09,The Dragon of Storm King,1,10.57
+2026-09-10,Tiny Tales: Rainy Day,3,33.90
+2026-09-11,The Vanishing Night Ferry,1,12.51
+2026-09-12,The Spice the Mediterranean,1,15.81
+2026-09-12,Unfinished: a Scientist,3,40.65
+2026-09-13,Practical Cybersecurity,1,25.83
+2026-09-14,Death in Blue Door,4,49.52
+2026-09-14,Love in Provence,4,31.84
+2026-09-14,Portrait of a Pioneer,1,25.35
+2026-09-16,Beyond Zero Hour,3,57.78
+2026-09-16,Home Kitchen: Weeknight Meals,3,69.69
+2026-09-16,Max and the Rainy Day,2,16.76
+2026-09-17,Protocol Nine,1,17.88
+2026-09-18,Beyond Andromeda,2,29.12
+2026-09-20,Unfinished: a Statesman,3,73.20
+2026-09-20,Flavors of Weeknight Meals,2,41.26
+2026-09-21,Simple Route,1,15.26
+2026-09-21,Flavors of Route,1,17.72
+2026-09-22,Death in Night Ferry,4,40.36
+2026-09-23,Mastering Calm,1,16.63
+2026-09-23,Voices of a Pioneer,2,38.76
+2026-09-23,Love in Second Chances,4,54.72
+2026-09-23,Brief Guide to Evolution,2,48.86
+2026-09-23,Letters to Provence,4,34.84
+2026-09-24,Introduction to Cybersecurity,3,127.62
+2026-09-24,Understanding Quantum Worlds,4,75.00
+2026-09-24,Beyond Zero Hour,1,19.26
+2026-09-24,The Missing Midnight Train,3,50.97
+2026-09-25,Rise of Zero Hour,1,17.20
+2026-09-25,Shadow over Manor House,3,48.54
+2026-09-26,Unfinished: a Statesman,2,48.80
+2026-09-27,The Vanishing Night Ferry,3,37.53
+2026-09-27,Bella and the Sleepy Dragon,3,27.69
+2026-09-27,Tiny Tales: Moon Rabbit,1,6.61
+2026-09-28,Daily Habits for Resilience,4,49.56
+2026-09-28,Designing Web Development,1,36.25
+2026-09-29,Baking with Classics,2,32.34
+2026-09-30,Heir to Ash,2,25.68
+2026-09-30,Shadow over Old Mill,4,50.36
+2026-09-30,Rise of Andromeda,2,27.94
+2026-09-30,Death in Night Ferry,4,40.36
+2026-10-02,Introduction to Cybersecurity,3,127.62
+2026-10-02,Simple Route,1,15.26
+2026-10-03,Wonders of the Cosmos,3,45.54
+2026-10-03,Chronicles of Ember Throne,2,43.76
+2026-10-03,The Spice the Mediterranean,1,15.81
+2026-10-03,Orbit of Nine,1,17.78
+2026-10-03,Unfinished: a Statesman,2,48.80
+2026-10-04,Home Kitchen: Classics,1,27.47
+2026-10-05,Practical Web Development,4,166.44
+2026-10-05,The Art of Deep Work,2,35.38
+2026-10-05,Home Kitchen: Classics,1,27.47
+2026-10-05,Unfinished: a Scientist,2,27.10
+2026-10-05,The Art of Deep Work,4,70.76
+2026-10-06,Orbit of Andromeda,2,38.32
+2026-10-06,Portrait of the Artist,4,79.12
+2026-10-06,Max and the Rainy Day,1,8.38
+2026-10-07,Home Kitchen: Weeknight Meals,4,92.92
+2026-10-07,Home Kitchen: Route,3,43.68
+2026-10-08,Simple Gujarat,3,55.74
+2026-10-08,Mastering Cybersecurity,3,64.83
+2026-10-08,Voices of a Statesman,3,74.43
+2026-10-10,The Crown of Storm King,1,15.11
+2026-10-10,Once Upon the Wrong Man,2,29.24
+2026-10-11,The Spice Weeknight Meals,3,67.05
+2026-10-11,The Fall of the Roman Republic,2,30.40
+2026-10-11,Heir to Ash,1,12.84
+2026-10-13,Simple Route,2,30.52
+2026-10-13,Letters from Season,2,35.28
+2026-10-13,The Case of the Violinist,1,10.72
+2026-10-13,Brief Guide to the Human Brain,2,48.90
